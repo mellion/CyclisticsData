@@ -14,9 +14,28 @@ Project Overview
 The goal of this case study is to answer key business questions by following the steps of the data analysis process:
 
 Ask: Identify the key business questions that need to be addressed.
+
+<br>
+
 Prepare: Collect and organize the data required for the analysis.
+
+<br>
 Process: Clean, preprocess, and transform the data to make it suitable for analysis.
+
+<br>
+
 Analyze: Explore the data, identify patterns, and draw conclusions.
+
+<br>
+
 Share: Present the findings to stakeholders in a clear and concise manner.
+
+<br>
+
 Act: Provide actionable insights and recommendations based on the analysis.
+
+<br>
+
 For this project, I will use Microsoft SQL Server to manage and analyze the data.
+
+<br>
