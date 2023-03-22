@@ -8,14 +8,14 @@
 
 Cyclistic is a bike-share company operating a network of over 5,800 bicycles and 600 docking stations. By analyzing over 3 million rows of data, we aimed to gain valuable insights to help the company grow and better serve its customers. Our primary goal was to answer key business questions regarding ride duration, daily ridership, hourly ridership, and monthly trends for casual riders and membership riders.
 
-##Data Collection and Preprocessing
+## Data Collection and Preprocessing
 The raw data for this project consisted of 12 CSV files, each containing one month of data. We started by extracting these files and performing a consistency check on the column names using Python. Next, we created a PostgreSQL database called cyclistics2023 and imported the CSV files into a table named cyclistics_data, resulting in a dataset with 2,983,223 rows.
 
 After creating a backup of the database, we cleaned and transformed the data. We updated the column names, removed unnecessary columns, checked for duplicate rows, and handled missing values. In total, we removed 10,090 records where the ride ended before it began and 42,681 records where the ride duration was less than 60 seconds.
 
 We also added new columns to the dataset: ride_length, day_of_the_week, month, and month_name.
 
-##Data Analysis and Visualization
+## Data Analysis and Visualization
 Using Power BI, we created several visuals to answer the business questions and gain insights into ridership trends. The visuals include:
 
 A clustered column chart showing the total monthly riders by member_type.
@@ -33,7 +33,7 @@ How does ridership differ at different hours of the day? The most popular times 
 
 How do the two groups differ during specific months? July through September are the most popular months for riders. Members ride more than casual riders every month, but the gap narrows in July. April and May have the lowest ridership.
 
-##Conclusion and Recommendations
+## Conclusion and Recommendations
 Based on our findings, we recommend the following strategies for Cyclistic:
 
 Target advertising and promotions on weekends: Since casual ridership is highest on Saturdays and Sundays, focus marketing efforts on these days to attract more casual riders.
