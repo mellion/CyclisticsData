@@ -59,7 +59,7 @@ I have revisited this case study and made some significant changes. Instead of u
 Welcome to my Cyclistic bike-share analysis case study repository! In this case study, I will perform various real-world tasks of a data analyst. I will work for a fictional company called Cyclistic, which operates a bike-share program featuring more than 5,800 bicycles and 600 docking stations.
 
 
-Project Overview
+Project Overview:
 The goal of this case study is to answer key business questions by following the steps of the data analysis process:
 
 Ask: Identify the key business questions that need to be addressed.
