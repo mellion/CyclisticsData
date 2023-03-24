@@ -2,6 +2,9 @@
 
 <br>
 
+[View the Power BI file on Google Drive](https://drive.google.com/file/d/13xpvzgqHUn4kZIE8KlKCUrxXtwB4UVd2/view?usp=share_link)
+
+
 ## Introduction
 
 <br>
